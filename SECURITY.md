@@ -28,8 +28,7 @@ reachable and exploitable through production-grade, benign models.
 
 When loading untrusted serialized computation graphs (in form of a `GraphDef`,
 `SavedModel`, or equivalent on-disk format), the set of computation primitives
-available to TensorFlow is powerful enough that you should assume that the
-TensorFlow process effectively executes arbitrary code.
+available to TensorFlow is powerful.
 
 The risk of loading untrusted checkpoints depends on the code or graph that you
 are working with. When loading untrusted checkpoints, the values of the traced
