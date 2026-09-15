@@ -3,8 +3,7 @@ name: TensorFlow Lite Converter Issue
 about: Use this template for reporting issues during model conversion to TFLite
 labels: 'TFLiteConverter'
 
----
-
+-----
 ### 1. System information
 
 - OS Platform and Distribution (e.g., Linux Ubuntu 16.04):
