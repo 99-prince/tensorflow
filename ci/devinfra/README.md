@@ -11,7 +11,5 @@ Maintainer: TensorFlow DevInfra
 Issue Reporting: File an issue against this repo and tag
 [@devinfra](https://github.com/orgs/tensorflow/teams/devinfra)
 
-********************************************************************************
-
 A directory for build and CI related scripts and jobs managed by the TensorFlow
 DevInfra team but not part of the official build, test, or release process.
